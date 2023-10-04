@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_activity_user_api">UserApi</string>
+    <string name="title_activity_weather_api">WeatherApi</string>
+</resources>
